@@ -30,13 +30,6 @@ Used:
 - DATE_TRUNC
 - FILTER clauses
 
-## 📂 Project Structure
-taskflow-analytics/
-- 'sql/views.sql'
-- 'data_exports'
-- 'seed_data.py'
-- 'README.md'
-
 ## Dashboard
 Built an executive-level dashboard with:
 - KPI cards
