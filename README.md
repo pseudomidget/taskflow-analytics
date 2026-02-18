@@ -24,7 +24,7 @@ Created analytical views:
 - `monthly_mrr`
 - `revenue_by_plan`
 
-Used:
+## Used:
 - Aggregate functions
 - Subqueries
 - DATE_TRUNC
@@ -35,3 +35,5 @@ Built an executive-level dashboard with:
 - KPI cards
 - MRR trend analysis
 - Revenue breakdown by plan
+
+Link to tableau dashboard: https://public.tableau.com/app/profile/sthita.pragyan2463/viz/Project-1_17714042297540/Dashboard1?publish=yes
