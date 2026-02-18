@@ -1,5 +1,4 @@
-# TaskFlow SaaS Analytics Dashboard
-
+# Project Flux - Decision Intelligence Dashboard
 An end-to-end analytics project simulating a B2B SaaS company.
 
 ## Overview
